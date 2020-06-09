@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Profile</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+    <script src='script.js'></script>
+</head>
+
+<body>
+<FONT Face="Sukhumvit">
+  <div class="head">
+  <header>
+    <img src ="logo.png" align ="right" style="max-width:100% ; height:auto; " >
+  </header>
+</div>
+<br>
+
+<center>
+<table width="100%" >
+<tr>
+  <td style="background-color:rgba(0, 0, 0, 0.5);width:100px;text-align:top;">
+    <center>
+    <img src="logo3.jpg" width=350 style="max-width:100% ; height:auto; " >
+  <h1>
+  <b>FIBO</b><br>
+  <b>COLLECTOR</b><br>
+  <h3>ACADEMIC PORTFOLIO & PEOJECT</h3><br>
+  </h1>
+</center>
+  </td>
+  
+  
+  <td style="background-color:rgba(0, 0, 0, 0.5);height:200px;width:400px;text-align:top;">
+
+    <center>
+    <h2>REGISTER</h2>
+    <FONT Face="Sukhumvit">
+    <div class="from" id="from">
+      <h3>
+        
+        <input type="text" class="textbox" placeholder="Student ID" style="border: none" required><br>
+        <input name="Fname" type="text" id="Fname"  class="textbox" placeholder="Name Surname" style="border: none" required><br>
+        <input name="Email" type="email" id="Email" class="textbox" placeholder="E-mail"style="border: none" required><br>
+        <input name="Password" type="password" id="Password" class="textbox" placeholder="Create Password" style="border: none"  required><br>
+        <input name="Password2" type="password" id="Password2" placeholder="Comfirm Password" class="textbox" style="border: none"  required > <br>
+        <button>Sign In </button>
+       
+      </h3>
+    </div>
+    </FONT>
+    </center>
+      </div>
+</table>
+
+</center>
+</Font>
+</body>
+</html>
